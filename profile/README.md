@@ -39,4 +39,4 @@ We welcome contributions to enhance L2Vista's capabilities. Please review our [C
 
 For inquiries or collaborations, reach out:
 
-- Email: [lukepark327@gmail.com](mailto:lukepark327@gmail.com)
+- Email: [lukepark327@gmail.com](mailto:lukepark327@gmail.com) | [volibear1001@gmail.com](mailto:volibear1001@gmail.com)
