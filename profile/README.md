@@ -27,11 +27,9 @@ Each protocol has its own explorer, adding confusion.
 -->
 
 
-<!--
 ## Contribution Guidelines
 
-We welcome contributions to enhance L2Vista's capabilities. Please review our [Contribution Guidelines](CONTRIBUTING.md) before submitting pull requests.
--->
+We welcome contributions to enhance L2Vista's capabilities. Please review our [Contribution Guidelines](https://github.com/L2Vista/.github/blob/main/contributing.md) before submitting pull requests.
 
 
 ---
