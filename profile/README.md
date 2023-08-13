@@ -1,7 +1,7 @@
 # L2Vista 🌐🔗 — Unified Cross-Chain Transaction Explorer
 
 ```
-Your panoramic window to the Layer-2 blockchain universe. Explore, track, and connect with cross-chain transactions seamlessly. Dive into the future of scalable solutions. 🌐🔗 #L2Vista
+Your panoramic window to the Layer-2 blockchain universe. Explore, track, and connect with cross-chain transactions seamlessly. Dive into the future of scalable solutions. #L2Vista #🌐🔗 #🌐🔍
 ```
 
 In a world of cross-chain protocols, tracking transactions is complex and fragmented.
@@ -13,8 +13,10 @@ Each protocol has its own explorer, adding confusion.
 ## 🔍 Demo
 
 - Web App: [https://l2vista.web.app/](https://l2vista.web.app/)
-- Settings for Demo: [README](https://github.com/L2Vista/webapp/blob/main/README.md)
 
+> ⚠️ **NOTE**
+>
+> For our demo website, you may need to permit [Insecure Content](https://github.com/L2Vista/webapp/blob/main/README.md).
 
 ## 🚀 Features
 
